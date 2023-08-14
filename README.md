@@ -38,10 +38,10 @@
   <img align="right" src="https://leetcard.jacoblin.cool/ciiindy?theme=light"/>
 </picture>
 
-- 🎓 BS, Information Sciences and Technology <sub>(2017.01 ~ 2021.05)</sub>
-- 💼 Worked as a software developer in Korea <sub>(2022.02 ~ 2023.02)</sub>
+- 🎓 BS, Information Sciences and Technology
+- 💼 Worked as a software developer in Korea
 - 🌱 Junior Software Developer
-- 💻 Always studying to become a better programmer!
-- 🎮 Usually playing video games in my free time!
+- 💻 Always studying!
+- 🎮 Love playing video games!
 - ☕ Javaphile!
 - 🐼 And a panda lover.. Fubao❤
