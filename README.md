@@ -44,6 +44,9 @@
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
   </picture>
   <picture>
+	<img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+  </picture>
+  <picture>
   	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   </picture>
   <picture>
