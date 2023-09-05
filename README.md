@@ -67,9 +67,6 @@
 </picture>
 
 - 🎓 BS, Information Sciences and Technology
-- 💼 Worked as a software developer in Korea
 - 🌱 Junior Software Developer
 - 💻 Always studying!
-- 🎮 Love playing video games!
-- ☕ Javaphile!
-- 🐼 And a panda lover.. Fubao❤
+- 🐼 I'm a panda lover..
